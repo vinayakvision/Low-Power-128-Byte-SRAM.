@@ -340,7 +340,7 @@ Consider the following READ State: WL=1, Access Transistors M5 and M6 are OFF an
 # Experimental Setup and Simulation Results 
 
 
- **The 6T SRAM cell has been designed for the following specifications. The 6T SRAM cell is designed for a CR=1.25 and PR=0.85 for 180nm technology. To minimize area, all the transistors are sized to a minimum length i.e. 180nm. External capacitance of 120fF is connected to BL and BL' modelling the parasitic capacitance of BL and BL'**
+ **The 6T SRAM cell has been designed for the following specifications. The 6T SRAM cell is designed for a CR=1.25 and PR=0.85 for 45nm technology. To minimize area, all the transistors are sized to a minimum length i.e. 45nm. External capacitance of 120fF is connected to BL and BL' modelling the parasitic capacitance of BL and BL'**
 
 
 ```
