@@ -345,7 +345,7 @@ Consider the following READ State: WL=1, Access Transistors M5 and M6 are OFF an
 
 ```
 +--------------------------------+-----------------------------------+
-|  **Length of all MOS**           | **180nm**                       |
+|  **Length of all MOS**           | **45nm**                       |
 +=================================+===================================+
 | **Width of PMOS devices (wp)**  |  **Minimum width**               |
 +--------------------------------+-----------------------------------+
